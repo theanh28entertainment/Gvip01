@@ -1,0 +1,7 @@
+{
+  "gn": "TestGame01",
+  "cfg": "aHR0cHM6Ly9mdW5jbHViLmdhbWVmdW5mdW4uZnVuL2FwaS9jb25maWdzL2dldF9jb25maWdz",
+  "cfg_er": "aHR0cHM6Ly9mdW5jbHViLmdhbWVmdW5mdW4uZnVuL2FwaS9jb25maWdzL3dyaXRlX2xvZ3M=",
+  "i": false,
+  "a": false
+}
